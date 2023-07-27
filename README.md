@@ -1,7 +1,7 @@
 # Introduction
 SQLite Sales Analysis of Chinook music store with hypothetical business questions
 
-# Analysis Goals
+# Project Goals
 1) Analyze sales by genres in the USA, to make a recommendation for which 3 albums to select to sell at the store
 
 2) Analyze sales by Employee Sales Performance
