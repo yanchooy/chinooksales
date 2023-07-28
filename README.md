@@ -10,6 +10,16 @@ SQLite Sales Analysis of Chinook music store with hypothetical business question
 
 4) Comparing sales performance between album versus tracks
 
+# Conclusion
+1) Rock, Alternative & Punk and Metal are the top 3 genres favoured in USA, so new labels should be aligned with these genres.
+
+2) Chinook's best salesperson brings in average of 38 dollars monthly worth of sales, about 5% more than the next best salespersons.
+
+3) Total sales is the highest in USA, followed by Canada and Brazil.
+   Czech Republic, Portugal and India have a higher per customer/order value though larger sample size is required to give us more confidence to invest campaigns in these countries.
+
+5) Tracks only purchase make up the bulk of Chinook's sales. We recommend a preference-targeted mixtape strategy to boost sales of more track sales from various artists.
+
 # SQL queries used
 - Left and Inner Join multiple tables
 - CTE tables for independent query before joining
